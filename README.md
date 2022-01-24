@@ -6,4 +6,4 @@ Search by language, expertise and availability:
 
  - Español:
    - [Frontend developer](es/frontend-dev.md) (🟢)
-   - [Backend developer](es/frontend-dev.md) (🟢)
+   - [Backend developer](es/backend-dev.md) (🟢)
